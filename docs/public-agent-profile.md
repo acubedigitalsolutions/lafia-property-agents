@@ -16,6 +16,40 @@ Full Name
 
 🛡 Verified Member
 
+# LPA Verified Promise
+
+Every verified agent publicly displays the LPA Verified Promise badge.
+
+------------------------------------------------
+
+🛡 LPA VERIFIED PROMISE
+
+This agent has accepted the Lafia Property Agents Verified Promise and has committed to conducting property transactions honestly, professionally, and ethically.
+
+[ Learn More ]
+
+------------------------------------------------
+
+When visitors click "Learn More", the complete promise is displayed.
+
+The promise includes:
+
+• Honesty
+
+• Professionalism
+
+• Transparency
+
+• Respect for Clients
+
+• Compliance with the Code of Conduct
+
+• Protection of Client Information
+
+• Accountability
+
+• Ethical Business Practices
+
 🥇 Membership Level
 
 📅 Verified Since
