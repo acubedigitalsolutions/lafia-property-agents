@@ -22,6 +22,18 @@ Every verified agent publicly displays the LPA Verified Promise badge.
 
 ------------------------------------------------
 
+╔══════════════════════════════╗
+        🛡 VERIFIED
+   LAFIA PROPERTY AGENTS
+
+     ✔ Active Member
+
+Verified Since: Aug 2026
+Last Verified: 15 Aug 2026
+
+www.lafiapropertyagents.com
+╚══════════════════════════════╝
+
 🛡 LPA VERIFIED PROMISE
 
 This agent has accepted the Lafia Property Agents Verified Promise and has committed to conducting property transactions honestly, professionally, and ethically.
