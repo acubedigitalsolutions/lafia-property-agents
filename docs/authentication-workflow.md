@@ -33,20 +33,72 @@ Password must be encrypted before storage.
 
 ## Agent Login
 
-Agents log in using:
+## Agent Login
 
-- Email Address
-- Password
+Agents can log in after creating an account.
 
-If the credentials are correct:
+Depending on their application status, they will see different dashboards.
 
-- Access is granted to the Agent Dashboard.
+### Account Created
 
-If incorrect:
+Status: Incomplete
 
-- Display "Invalid email or password."
+The agent can:
+
+- Complete profile
+- Upload profile photo
+- Upload government ID
+- View registration progress
+- Contact support
+
+The agent cannot:
+
+- Receive a Membership ID
+- Appear in public search
+- Download a membership card
+- Download a membership certificate
+- Access member-only features
 
 ---
+
+### Profile Submitted
+
+Status: Pending Review
+
+The dashboard displays:
+
+"Your application is under review."
+
+The agent can:
+
+- View submitted information
+- Edit information if requested by the administrator
+- Track application status
+
+---
+
+### Approved
+
+Status: Approved – Payment Required
+
+The dashboard displays a "Pay Membership Fee" button.
+
+The agent cannot access member benefits until payment is confirmed.
+
+---
+
+### Active Member
+
+After successful payment:
+
+The dashboard unlocks:
+
+- Membership ID
+- Verified Badge
+- Digital Membership Card
+- Membership Certificate
+- Renewal Section
+- Membership Expiry Countdown
 
 ## Administrator Login
 
