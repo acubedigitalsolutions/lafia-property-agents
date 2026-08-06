@@ -12,14 +12,14 @@ To become the most trusted property agent directory in Nigeria.
 
 ## Mission
 
-To promote professionalism, transparency, and trust in property transactions by verifying agents and providing a secure platform for property seekers.
+To promote professionalism, transparency, and trust in property transactions through a secure, verified membership platform.
 
-## Key Features
+## Features
 
-- Agent Registration
+- Verified Agent Registration
 - Government ID Verification
 - Annual Membership Subscription
-- Agent Search
+- Agent Search by Location
 - Membership Verification
 - Property Requests
 - Report an Agent
@@ -29,12 +29,15 @@ To promote professionalism, transparency, and trust in property transactions by 
 - Admin Dashboard
 - Paystack Payment Integration
 
-## Project Status
+## Technology Stack
 
-Planning Complete ✅
-
-Development In Progress 🚀
+- Frontend: Next.js
+- Backend: Laravel
+- Database: MySQL
+- Payment: Paystack
 
 ## Developed By
 
-A-Cube Digital Solutions
+**A-Cube Digital Solutions**
+
+© 2026. All Rights Reserved.
