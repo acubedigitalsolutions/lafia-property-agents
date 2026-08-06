@@ -22,6 +22,17 @@ Status:
 - Agent Profile: Incomplete
 
 ---
+### Registration Progress
+
+The system tracks the agent's progress through the following stages:
+
+1. Account Created
+2. Profile Incomplete
+3. Profile Submitted
+4. Pending Review
+5. Approved – Payment Required
+6. Active Member
+7. Membership Expired
 
 ## Step 2: Complete Profile
 
