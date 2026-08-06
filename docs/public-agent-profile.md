@@ -42,6 +42,14 @@ This agent has accepted the Lafia Property Agents Verified Promise and has commi
 
 ------------------------------------------------
 
+# Trust Statement
+
+## Trust Statement
+
+This agent has been identity-verified by Lafia Property Agents. Their government-issued identification has been reviewed, and they have accepted the LPA Verified Promise and the Code of Conduct.
+
+Verification confirms the agent's identity and membership status. Clients are encouraged to carry out their own due diligence before completing any property transaction.
+
 When visitors click "Learn More", the complete promise is displayed.
 
 The promise includes:
