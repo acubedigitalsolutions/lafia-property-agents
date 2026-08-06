@@ -228,6 +228,47 @@ Verification Status
 Subscription Plan
 
 ---
+# Profile Strength
+
+Every profile is scored from 0% to 100%.
+
+The score helps agents know how complete their profile is.
+
+## Score Breakdown
+
+Profile Photo ............. 15%
+
+Government ID ............. 20%
+
+Professional Bio ......... 10%
+
+Office Address ........... 10%
+
+Areas of Operation ....... 15%
+
+Phone Number ............. 10%
+
+Verified Email ........... 10%
+
+WhatsApp Number .......... 5%
+
+Office Location Map ...... 3% (Optional)
+
+Social Media Links ....... 2% (Optional)
+
+Total .................... 100%
+
+---
+
+## Dashboard Display
+
+Profile Strength
+
+█████████░ 95%
+
+Excellent Profile
+
+Complete your profile to reach 100%.
 
 # Activity Timeline
 
