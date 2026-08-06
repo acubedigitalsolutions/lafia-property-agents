@@ -228,6 +228,23 @@ Verification Status
 Subscription Plan
 
 ---
+# Verified Since Badge
+
+Every active member receives a "Verified Since" badge.
+
+Example:
+
+🛡 Verified Since
+
+August 2026
+
+The badge appears on:
+
+- Agent Dashboard
+- Public Agent Profile
+- Membership Card
+- Membership Verification Page
+
 # Profile Strength
 
 Every profile is scored from 0% to 100%.
